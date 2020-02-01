@@ -4,7 +4,7 @@ export default {
     secondary: '#686461',
     tertiary: '#958E8E',
     highlight: '#C29967',
-    background: '#F5F0EB',
+    background: '#bbcdbd',
     border: '#DCD8D3',
     button: '#E9E4DF',
     text: '#292929',
